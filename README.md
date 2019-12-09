@@ -1,4 +1,4 @@
-** make your backup image with dcfldd (better than dd because it shows the progress) **
+**make your backup image with dcfldd (better than dd because it shows the progress)**
 
 sudo dcfldd if=/dev/mmcblk0 of=rpi_backup.img
 
