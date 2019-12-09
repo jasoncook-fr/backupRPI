@@ -14,7 +14,7 @@ sudo perl ./resizeimage.pl /path/to/file/rpi_backup.img
 
 sudo fdisk -l rpi_backup.img
 
-######### verification steps (optional) ###########
+# ######### verification steps (optional) ###########
 
 # prepare first step for mounting image by using losetup
 
