@@ -11,6 +11,7 @@ sudo fdisk -l rpi_backup.img
 sudo perl ./resizeimage.pl /path/to/file/rpi_backup.img
 
 **use fdisk again to view size modifications. also take note of START block size on second partition (last and largest partition)**
+
 sudo fdisk -l rpi_backup.img
 
 **######### verification steps (optional) ###########**
